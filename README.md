@@ -5,7 +5,7 @@ A personal portfolio project demonstrates my past projects and skillset.
 
 # Technologies
 
- -HTML
+ -HTML </n>
  -CSS
  -JavaScript
  
