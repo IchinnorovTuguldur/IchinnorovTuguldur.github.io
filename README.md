@@ -9,7 +9,8 @@ A personal portfolio project demonstrates my past projects and skillset.
  -HTML
  -CSS
  -JavaScript
- Tested in Safari and Google chrome browser
+ 
+ Tested on Safari and Google Chrome browser
  
 
 ----
